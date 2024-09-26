@@ -34,7 +34,7 @@ what i need to do ?
 > [!WARNING]
 > while scraping the images always save the img with its url in a csv or json format 
 
-> [!WARNING] 
+> [!CAUTION] 
 > only use `JSON` OR `CSV` and nothing else
 
 but why save th links ?
