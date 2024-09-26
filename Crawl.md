@@ -19,9 +19,9 @@ what i need to do ?
 1. first i need the website to scrap here we are using "know your meme"
 2.  i need to scrap all the images in the page with scraper
   > [!NOTE] only scrap the images with secific dimention 
-  >[!WARNING] DONT SCRAP IMG THUMBNAILS
+  > [!WARNING] DONT SCRAP IMG THUMBNAILS
 3. i need to get all the links ine that wab page 
- >[!WARNING] filter out all the social media links
+ > [!WARNING] filter out all the social media links
  > only accept "know your meme" links
 4. save the list in a array 
 5. go forward to scrap the next link
