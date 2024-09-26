@@ -18,11 +18,13 @@ need libraries
 what i need to do ?
 1. first i need the website to scrap here we are using "know your meme"
 2.  i need to scrap all the images in the page with scraper
-  > [!NOTE] only scrap the images with secific dimention 
-  > [!WARNING] DONT SCRAP IMG THUMBNAILS
+  > [!NOTE] 
+  > only scrap the images with secific dimention 
+  > [!WARNING] 
+  > DONT SCRAP IMG THUMBNAILS
 3. i need to get all the links ine that wab page 
- > [!WARNING] filter out all the social media links
- > only accept "know your meme" links
+ > [!WARNING] 
+ > filter out all the social media linksonly accept "know your meme" links
 4. save the list in a array 
 5. go forward to scrap the next link
 6. continue `step 1`. 
@@ -31,7 +33,8 @@ what i need to do ?
 > [!WARNING]
 > while scraping the images always save the img with its url in a csv or json format 
 
-> [!WARNING] only use `JSON` OR `CSV` and nothing else
+> [!WARNING] 
+> only use `JSON` OR `CSV` and nothing else
 
 but why save th links ?
 - it will be used later to find the origin of the meme and get its description of the meme
@@ -54,7 +57,8 @@ How to solve it ?
   - `node fetch` a light weight HTTP request 
   - `request-promise` a promisebased http request library
 
-> [!NOTE] source= "GFG"
+> [!NOTE] 
+> source= "GFG"
 
 if i need i can used fully 3rd party library
 `ScraperJS` available on *GITHUB*
@@ -81,6 +85,9 @@ image scrap
 >```
 
 this will do the work i guess :)
+
+> [!NOTE] 
+> source= "GFG"
 
 # Buuuuuuuutttttt
 how can we prevent infinity loop ?
