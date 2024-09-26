@@ -108,6 +108,7 @@ here `BFS` makes more sense cause it will give us the dank meme we are searching
 7. JS will handle the data and fetch the data from th url ("here know your meme or given link)
 8. JS will handle the the data handeling and visualization 
 9. complete :) 
+10.
 
 
 
