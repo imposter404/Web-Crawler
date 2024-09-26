@@ -20,7 +20,8 @@ what i need to do ?
 2.  i need to scrap all the images in the page with scraper
   > [!NOTE] 
   > only scrap the images with secific dimention 
-> [!WARNING] 
+
+  > [!WARNING] 
   > DONT SCRAP IMG THUMBNAILS
 3. i need to get all the links ine that wab page 
  > [!WARNING] 
